@@ -1,0 +1,14 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.hero-unit h1 {
+  font-weight:700;
+  color:#fff;
+}
+h2 {
+  font-weight:300;
+}
+blockquote {
+  font-size:14px;
+}
